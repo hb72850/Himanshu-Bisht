@@ -1,9 +1,10 @@
 # Portfolio
 # 👋 Hi, I'm Himanshu Bisht  
 
+<img src="IMG_1787.jpeg" alt="Himanshu Bisht" width="200" align="right"/>
+
 💻 **Data Analyst | Data Operations | SQL | Python | Excel | Healthcare (RCM) | Real Estate Analytics**  
 
-<img src="IMG_1787.jpeg" alt="Himanshu Bisht" width="200" align="right"/>
 ![Profile Views](https://komarev.com/ghpvc/?username=hb72850&label=Profile%20Views&color=0e75b6&style=flat)  
 ![GitHub Followers](https://img.shields.io/github/followers/hb72850?label=Followers&style=social)  
 ![GitHub Stars](https://img.shields.io/github/stars/hb72850?affiliations=OWNER%2CCOLLABORATOR&style=social)  
@@ -11,10 +12,10 @@
 ---
 
 ## 🚀 About Me  
-🔹 Passionate about **transforming raw data into meaningful insights**  
-🔹 Skilled in **SQL, Python, Excel/Google Sheets, Tableau, Machine Learning**  
-🔹 Experienced in **Revenue Cycle Management (RCM)** & **Real Estate Analytics**  
-🔹 Love **automating workflows, data cleaning, and building dashboards**  
+- Passionate about **transforming raw data into meaningful insights**  
+- Skilled in **SQL, Python, Excel/Google Sheets, Tableau, Machine Learning**  
+- Experienced in **Revenue Cycle Management (RCM)** & **Real Estate Analytics**  
+- Love **automating workflows, data cleaning, and building dashboards**  
 
 ---
 
@@ -35,35 +36,25 @@ Automated property data extraction from the Maharashtra RERA website using **Pyt
 - Automated multi-page navigation and inconsistent data handling  
 - Reduced manual effort, improved efficiency  
 
----
-
 ### 🏦 [Bank Marketing UCI](https://github.com/hb72850/Bank-Marketing-UCI)  
 Analyzed the **Bank Marketing dataset (UCI)** to predict customer subscription behavior.  
 - Built ML models (Logistic Regression, Random Forest, XGBoost)  
 - Evaluated performance with accuracy & precision metrics  
-
----
 
 ### 🚗 [Car Sale Prediction](https://github.com/hb72850/Car-Sale-Prediction)  
 Developed a predictive model for **car sale prices**.  
 - Used **Regression algorithms & feature engineering**  
 - Delivered accurate price predictions for business use  
 
----
-
 ### 🎁 [Predict the Gift Lowest Price](https://github.com/hb72850/Predict-the-Gift-lowest-price)  
 Optimized pricing strategy by predicting the **lowest possible price** of products.  
 - Applied ML techniques on pricing datasets  
 - Helped design cost-efficient pricing strategies  
 
----
-
 ### 📉 [Low Cap Price](https://github.com/hb72850/Low_Cap_price)  
 Analyzed **low market capitalization stocks** for investment potential.  
 - Used data visualization & trend analysis  
 - Generated insights on underperforming vs. high-yield assets  
-
----
 
 ### 👨‍💼 [Predict Employee Burnout Rate](https://github.com/hb72850/Predict-the-employee-burn-out-rate)  
 Built a **predictive model** to estimate employee burnout rates.  
@@ -91,4 +82,5 @@ Built a **predictive model** to estimate employee burnout rates.
   <a href="http://linkedin.com/in/himanshu-bisht-2ba086204"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:hb72850@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/hb72850"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>  
+</p>
+
