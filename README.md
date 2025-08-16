@@ -3,7 +3,7 @@
 
 💻 **Data Analyst | Data Operations | SQL | Python | Excel | Healthcare (RCM) | Real Estate Analytics**  
 
-![Profile Banner]<img src="IMG_1787.jpeg" alt="Himanshu Bisht" width="200" align="right"/>
+<img src="IMG_1787.jpeg" alt="Himanshu Bisht" width="200" align="right"/>
 ![Profile Views](https://komarev.com/ghpvc/?username=hb72850&label=Profile%20Views&color=0e75b6&style=flat)  
 ![GitHub Followers](https://img.shields.io/github/followers/hb72850?label=Followers&style=social)  
 ![GitHub Stars](https://img.shields.io/github/stars/hb72850?affiliations=OWNER%2CCOLLABORATOR&style=social)  
