@@ -1,5 +1,5 @@
 # DATA ANALYST
-# Himanshu Bisht  
+# 👋 Hi, I'm Himanshu Bisht  
 
 <img src="IMG_1787.jpeg" alt="Himanshu Bisht" width="200" align="right"/>
 
