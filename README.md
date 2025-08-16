@@ -29,7 +29,7 @@
   - Collaborate with cross-functional teams to support operational improvements using historical data.
   - Maintain data accuracy and ensure compliance with internal data governance standards.
 
-**DATA ANALYST** Commure India Pvt Ltd / mar-2023 to jun-2025
+**DATA ANALYST** P E Analytics Pvt Ltd / mar-2023 to jun-2025
   - Performed data cleaning, engineering, and validation on property transaction datasets.
   - Built web scraping solutions to extract property details from govt. websites.
   - Analyzed real estate trends & business performance, supporting investment strategies.
