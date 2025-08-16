@@ -1,7 +1,4 @@
 # DATA ANALYST
-# 👋 Hi, I'm Himanshu Bisht  
-
-<img src="IMG_1787.jpeg" alt="Himanshu Bisht" width="200" align="right"/>
 
 💻 **Data Analyst | Data Operations | SQL | Python | Excel | Healthcare (RCM) | Real Estate Analytics**  
 
@@ -16,6 +13,28 @@
 - Skilled in **SQL, Python, Excel/Google Sheets, Tableau, Machine Learning**  
 - Experienced in **Revenue Cycle Management (RCM)** & **Real Estate Analytics**  
 - Love **automating workflows, data cleaning, and building dashboards**  
+
+---
+
+## 🧑‍🎓 Education 
+- **BTech**  GGSIPU / 7.23 CGPA / 2021  
+- **DIPLOMA** BTE Delhi / 70% / 2017   
+
+---
+
+## 👨‍💻 Work Experience  
+**DATA ANALYST** Commure India Pvt Ltd / jun-2025
+  - Analyze and validate healthcare billing and RCM data using Excel, MySQL, and Google Sheets.
+  - Identify data patterns and trends to provide actionable insights for improving revenue cycle efficiency.
+  - Collaborate with cross-functional teams to support operational improvements using historical data.
+  - Maintain data accuracy and ensure compliance with internal data governance standards.
+
+**DATA ANALYST** Commure India Pvt Ltd / mar-2023 to jun-2025
+  - Performed data cleaning, engineering, and validation on property transaction datasets.
+  - Built web scraping solutions to extract property details from govt. websites.
+  - Analyzed real estate trends & business performance, supporting investment strategies.
+  - Extracted and managed datasets using MySQL.
+  - Delivered insights for revenue growth and identified underperforming assets for restructuring.
 
 ---
 
