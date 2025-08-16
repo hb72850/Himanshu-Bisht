@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Himanshu Bisht  
+
+# Himanshu Bisht  
 
 <img src="IMG_1787.jpeg" alt="Himanshu Bisht" width="200" align="right"/>
 
